@@ -1,0 +1,12 @@
+pandas 
+numpy 
+seaborn
+scikit-learn
+pandas
+dill
+dataclasses
+xgboost
+catboost
+flask
+flask-cors
+-e .
